@@ -34,4 +34,4 @@ jobs:
       with:
         branch: gh-pages  # 部署到 gh-pages 分支
         folder: dist  # 构建输出目录，确保与实际输出一致
-        token: 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  # 使用 GitHub 自动提供的 token
+        token: ${{ secrets.GH_TOKEN }}  # 使用 GitHub 自动提供的 token
