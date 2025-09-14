@@ -168,7 +168,7 @@ Demo 中已实现 “AI 智能分析按钮”，点击后自动拼接传感器�
 
 
 
-![2.png](https://s2.loli.net/2025/09/15/Wh54CPTDN1Ur7IY.png)
+![Snipaste_2025-09-15_03-37-52.png](https://s2.loli.net/2025/09/15/W5rJsw2LbE74O1e.png)
 
 
 ## 二、王同学的问题
@@ -237,7 +237,7 @@ void loop() {
 
 
 
-![3.png](https://s2.loli.net/2025/09/15/Qms2pUKhlPHX1If.png)
+![Snipaste_2025-09-15_03-38-32.png](https://s2.loli.net/2025/09/15/ZBbIYgPJXv5qNpe.png)
 
 关键引脚对应说明（结合注释接线需求）：
 
