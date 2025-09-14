@@ -58,13 +58,13 @@
 
 *   在 API Key 列表中，点击 “小眼睛” 图标显示密钥，复制保存。
 
-1.  开通模型服务：
+3.  开通模型服务：
 
 *   进入[开通管理](https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement)页面；
 
 *   在模型列表中找到 “DeepSeek-V3.1” 并开通（或点击 “一键开通所有模型”）。
 
-1.  充值（可选）：
+4.  充值（可选）：
 
 *   进入[费用中心](https://console.volcengine.com/finance/fund/recharge)页面；
 
